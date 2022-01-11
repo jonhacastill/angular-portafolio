@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "nombre" : "Waifu 1",
+  "subtitulo" : "Programador",
+  "twitter" : "@jonhacastillo",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-cj.appspot.com/o/1dd463f45c2d4680543253f32818b56f.jpg?alt=media&token=7b45edc7-9635-4f2c-a918-ed438726c0d2"
+}, {
+  "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "nombre" : "Waifu 2",
+  "subtitulo" : "Actriz",
+  "twitter" : "@AngieJolie",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-cj.appspot.com/o/60767700efd49b676136cc9ed76d02884f81cc93_00.jpg?alt=media&token=537405da-48c6-4c17-85ba-5f1aa234e406"
+}, {
+  "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "nombre" : "Waifu 3",
+  "subtitulo" : "Director",
+  "twitter" : "@BradPitt",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-cj.appspot.com/o/HD-wallpaper-nagatoro-waifu-anime.jpg?alt=media&token=4ec6b31d-7b0a-47c2-a3a7-81909ac35410"
+} ]
